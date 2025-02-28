@@ -1,2 +1,5 @@
 Neural.code-workspace
 venv/
+notebooks/
+data/
+.devcontainer/
