@@ -1,2 +1,14 @@
 Neural.code-workspace
-venv/
+.venv/
+dlib/
+insightface_db/
+models/
+references/
+.pyc/
+.vscode/
+services/
+modeling/
+reports/
+notebooks/
+data/
+.devcontainer/

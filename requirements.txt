@@ -1,2 +1,6 @@
 ipykernel
 python-dotenv
+dlib
+opencv-python
+numpy
+face-recognition
