@@ -1,4 +1,4 @@
-from features import load_known_faces, recognize_faces_in_video
+from src.Face_Recognition import load_known_faces, recognize_faces_in_video
 
 if __name__ == "__main__":
     known_faces_folder = "C:\\Users\\MSI\\Pictures\\Camera Roll\\"
